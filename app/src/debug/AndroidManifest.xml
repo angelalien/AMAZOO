@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jack.zoo">
+
+    <application>
+        <activity android:name=".practiceAnsActivity" />
+        <activity android:name=".gameIFM1Activity" />
+        <activity android:name=".gameIFM2Activity" />
+        <activity android:name=".rewardActivity" />
+        <activity android:name=".ARActivity"></activity>
+    </application>
+
+</manifest>
